@@ -1,0 +1,14 @@
+{
+  "name": "piglatin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "piglatin.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
